@@ -1,4 +1,4 @@
-
+end
 xxHash - Extremely fast hash algorithm
 ======================================
 
