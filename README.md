@@ -235,3 +235,4 @@ and `xxhsum` command line interface.
 - Takayuki Matsuoka, aka @t-mat, for creating `xxhsum -c` and great support during early xxh releases
 - Mathias Westerdahl, aka @JCash, for introducing the first version of `XXH64`
 - Devin Hussey, aka @easyaspi314, for incredible low-level optimizations on `XXH3` and `XXH128`
+end
